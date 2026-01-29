@@ -1,7 +1,7 @@
 //modify fungsi cetak pesan
-function cetakPesan(nama : string) {
+function cetakPesan(nama_lengkap : string) {
 
-    console.log(`Selamat datang ${nama}`)
+    console.log(`Selamat datang ${nama_lengkap}`)
 }
 
 //modify fungsi cetak nama
