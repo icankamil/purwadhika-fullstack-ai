@@ -1,7 +1,6 @@
 //modify fungsi cetak pesan
-function cetakPesan() {
+function cetakPesan(nama : string) {
 
-    let nama = 'Ali'
     console.log(`Selamat datang ${nama}`)
 }
 
